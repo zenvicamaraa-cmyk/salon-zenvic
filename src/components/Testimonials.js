@@ -16,15 +16,15 @@ function Testimonials() {
   const testimonials = [
     {
       image: ameliaImg,
-      country: "Canada",
+      country: "USA",
       role: "salon owner",
       name: "Amelia",
       quote: "Within a month, my salon was fully booked. I never thought ads could bring this many clients. Amazing team!"
     },
     {
       image: sophiaImg,
-      country: "Canada",
-      role: "salon owner 2",
+      country: "USA",
+      role: "salon owner",
       name: "Sophia",
       quote: "I was struggling to get new clients. These guys helped me scale my salon and automate bookings. Highly recommend!"
     },
