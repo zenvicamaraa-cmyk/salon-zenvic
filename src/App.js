@@ -18,11 +18,12 @@ function App() {
     <div className="App">
       <Header />
       <EmailForm></EmailForm>
+      <SalonChallenges></SalonChallenges>
       <Services />
       <HowItWorks />
       <Testimonials />
       {/* <PromoPage></PromoPage> */}
-      <SalonChallenges></SalonChallenges>
+      
       
       <Footer></Footer>
     </div>
