@@ -8,6 +8,9 @@ import ameliaImg from '../assets/testimonials/amelia.jpg';
 import sophiaImg from '../assets/testimonials/sophia.jpg';
 import eleniImg from '../assets/testimonials/eleni.jpg';
 import lucaImg from '../assets/testimonials/luca.jpg';
+import isabellaImg from '../assets/testimonials/isabella.jpg';
+import oliviaImg from '../assets/testimonials/olivia.jpg';
+
 
 function Testimonials() {
   const testimonials = [
@@ -15,43 +18,43 @@ function Testimonials() {
       image: ameliaImg,
       country: "Canada",
       role: "salon owner",
-      name: "Amelia — UK",
+      name: "Amelia",
       quote: "Within a month, my salon was fully booked. I never thought ads could bring this many clients. Amazing team!"
     },
     {
       image: sophiaImg,
       country: "Canada",
       role: "salon owner 2",
-      name: "Sophia — Canada",
+      name: "Sophia",
       quote: "I was struggling to get new clients. These guys helped me scale my salon and automate bookings. Highly recommend!"
     },
     {
       image: eleniImg,
       country: "Cyprus",
       role: "salon owner",
-      name: "Eleni — Cyprus",
+      name: "Eleni",
       quote: "From slow weeks to fully booked weekends — Zenvic’s approach really works."
     },
     {
       image: lucaImg,
       country: "Italy",
       role: "salon owner",
-      name: "Luca — Italy",
+      name: "Luca",
       quote: "My revenue is up, and I finally have time to focus on my clients instead of chasing leads."
     },
     {
-      image: eleniImg,
-      country: "Cyprus",
-      role: "salon owner",
-      name: "Eleni — Cyprus",
-      quote: "From slow weeks to fully booked weekends — Zenvic’s approach really works."
-    },
-    {
-      image: lucaImg,
+      image: isabellaImg,
       country: "Italy",
-      role: "salon owner",
-      name: "Luca — Italy",
-      quote: "My revenue is up, and I finally have time to focus on my clients instead of chasing leads."
+      role: "Hair Stylist",
+      name: "Isabella Rossi",
+      quote: "I finally raised my prices with confidence. Thanks to Zenvic Media, my calendar is full and my clients are happier than ever."
+    },
+    {
+      image: oliviaImg,
+      country: "Canada",
+      role: "Spa Director",
+      name: "Olivia Brown",
+      quote: "Our Instagram was dead before. With Zenvic’s content strategy, our weekends are now fully booked a month ahead."
     }
   ];
 
