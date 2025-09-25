@@ -14,7 +14,7 @@ function Footer() {
       {/* Center: Social Links */}
       <div className="footer-center">
         <a href="https://instagram.com/zenvicmedia" target="_blank" rel="noopener noreferrer">Instagram</a>
-        <a href="https://facebook.com/zenvicmedia" target="_blank" rel="noopener noreferrer">Facebook</a>
+        <a href="https://facebook.com/zenvic.m" target="_blank" rel="noopener noreferrer">Facebook</a>
       </div>
 
       {/* Right: Copyright */}
